@@ -1,5 +1,6 @@
-# fsdse-python-assignment-162
-## Given sorted arrays A, B, merge B into A in sorted order
+# Given sorted arrays A, B, merge B into A in sorted order
+
+## Constraints
 * Does A have enough space for B?
   * Yes
 * Can the inputs have duplicate array items?

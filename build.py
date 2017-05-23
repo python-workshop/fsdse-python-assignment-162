@@ -19,7 +19,3 @@ def merge_into(source, dest, source_end_index, dest_end_index):
             dest_index -= 1
         insert_index -= 1
     return source
-
-a = [1,  3,  5,  7,  9,  None,  None,  None]
-b = [4,  5,  6]
-print(merge_into(a, b, 5, len(b)))
